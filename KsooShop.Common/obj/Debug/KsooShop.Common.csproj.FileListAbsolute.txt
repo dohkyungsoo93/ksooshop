@@ -1,0 +1,5 @@
+E:\Project\KsooShop\KsooShop.Common\bin\Debug\KsooShop.Common.dll
+E:\Project\KsooShop\KsooShop.Common\bin\Debug\KsooShop.Common.pdb
+E:\Project\KsooShop\KsooShop.Common\obj\Debug\KsooShop.Common.csprojResolveAssemblyReference.cache
+E:\Project\KsooShop\KsooShop.Common\obj\Debug\KsooShop.Common.dll
+E:\Project\KsooShop\KsooShop.Common\obj\Debug\KsooShop.Common.pdb

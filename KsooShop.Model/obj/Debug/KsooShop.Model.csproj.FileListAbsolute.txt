@@ -1,0 +1,10 @@
+E:\Project\KsooShop\KsooShop.Model\bin\Debug\KsooShop.Model.dll.config
+E:\Project\KsooShop\KsooShop.Model\bin\Debug\KsooShop.Model.dll
+E:\Project\KsooShop\KsooShop.Model\bin\Debug\KsooShop.Model.pdb
+E:\Project\KsooShop\KsooShop.Model\bin\Debug\EntityFramework.dll
+E:\Project\KsooShop\KsooShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\KsooShop\KsooShop.Model\bin\Debug\EntityFramework.xml
+E:\Project\KsooShop\KsooShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\KsooShop\KsooShop.Model\obj\Debug\KsooShop.Model.csprojResolveAssemblyReference.cache
+E:\Project\KsooShop\KsooShop.Model\obj\Debug\KsooShop.Model.dll
+E:\Project\KsooShop\KsooShop.Model\obj\Debug\KsooShop.Model.pdb
